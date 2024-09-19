@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/organicstaples-react-website-starter-kit/static/css/main.fef2e98c.css",
-    "main.js": "/organicstaples-react-website-starter-kit/static/js/main.7d9e00d8.js",
-    "static/js/787.d6eba608.chunk.js": "/organicstaples-react-website-starter-kit/static/js/787.d6eba608.chunk.js",
+    "main.js": "/organicstaples-react-website-starter-kit/static/js/main.9bf59415.js",
+    "static/js/787.a3e86840.chunk.js": "/organicstaples-react-website-starter-kit/static/js/787.a3e86840.chunk.js",
     "static/media/flours_icon.jpg": "/organicstaples-react-website-starter-kit/static/media/flours_icon.ec7f6dc42d6cc18da361.jpg",
     "static/media/sugars_icon.jpg": "/organicstaples-react-website-starter-kit/static/media/sugars_icon.961ba604116a52d94550.jpg",
     "static/media/oils_icon.jpg": "/organicstaples-react-website-starter-kit/static/media/oils_icon.0327bc44b907b904ae53.jpg",
@@ -37,17 +37,17 @@
     "static/media/BGLogo.png": "/organicstaples-react-website-starter-kit/static/media/BGLogo.aabd80eecddc88f3353f.png",
     "static/media/fa-v4compatibility.ttf": "/organicstaples-react-website-starter-kit/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/organicstaples-react-website-starter-kit/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/organicstaples-react-website-starter-kit/index.html",
     "static/media/slick.svg": "/organicstaples-react-website-starter-kit/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/organicstaples-react-website-starter-kit/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/organicstaples-react-website-starter-kit/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/organicstaples-react-website-starter-kit/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/organicstaples-react-website-starter-kit/index.html",
     "main.fef2e98c.css.map": "/organicstaples-react-website-starter-kit/static/css/main.fef2e98c.css.map",
-    "main.7d9e00d8.js.map": "/organicstaples-react-website-starter-kit/static/js/main.7d9e00d8.js.map",
-    "787.d6eba608.chunk.js.map": "/organicstaples-react-website-starter-kit/static/js/787.d6eba608.chunk.js.map"
+    "main.9bf59415.js.map": "/organicstaples-react-website-starter-kit/static/js/main.9bf59415.js.map",
+    "787.a3e86840.chunk.js.map": "/organicstaples-react-website-starter-kit/static/js/787.a3e86840.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fef2e98c.css",
-    "static/js/main.7d9e00d8.js"
+    "static/js/main.9bf59415.js"
   ]
 }
