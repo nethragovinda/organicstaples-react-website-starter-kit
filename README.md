@@ -102,6 +102,6 @@ Contributions
 Contributions are welcome! Please feel free to open an issue or create a pull request with any improvements.
 Contact
 If you have any questions, feel free to reach out:
-•	Email: your-nethragovinda@gmail.com
+•	Email: nethragovinda@gmail.com
 ________________________________________
 
